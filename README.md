@@ -7,9 +7,9 @@
 </tr>
 </table>
 
-## Holomorphic
+## I'm Holomorphic
 
-**A polymath**
+**An aspiring polymath**
 
 [![X](https://img.shields.io/badge/X-Holomorphics-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Holomorphics)
 [![YouTube](https://img.shields.io/badge/YouTube-HoIomorphic-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HoIomorphic)
