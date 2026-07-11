@@ -13,7 +13,7 @@
 
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/https://x.com/Holomorphics)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Holomorphic) 
-[![Roblox](https://img.shields.io/badge/Roblox-%00A2FF.svg?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/181461312)
+[![Roblox](https://img.shields.io/badge/Roblox-%F2F3F3.svg?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/181461312)
 
 <br>
 
