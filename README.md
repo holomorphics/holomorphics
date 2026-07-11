@@ -11,8 +11,8 @@
 
 **An aspiring polymath**
 
-[![X](https://img.shields.io/badge/X-Holomorphics-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Holomorphics)
-[![YouTube](https://img.shields.io/badge/YouTube-HoIomorphic-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HoIomorphic)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Holomorphics)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@HoIomorphic)
 [![Roblox](https://img.shields.io/badge/Roblox-Profile-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/181461312)
 
 <br>
